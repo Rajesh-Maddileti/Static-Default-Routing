@@ -61,4 +61,4 @@ Successful ping results confirm end-to-end connectivity.
 
   ## Ping Verification
 
-- [Ping Verificationa](ping-verification.jpeg)
+- [Ping Verification](ping-verification.jpeg)
